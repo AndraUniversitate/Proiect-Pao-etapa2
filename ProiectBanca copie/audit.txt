@@ -1,0 +1,106 @@
+In procedura citesteSucursalaFis,2019-04-30 19:38:18.933
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-30 19:38:18.98
+In procedura citestePersoanaFis,2019-04-30 19:38:18.98
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-30 19:38:18.98
+In procedura citestePersoanaFis,2019-04-30 19:38:18.98
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-30 19:38:18.995
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-30 19:38:19.011
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-30 19:38:19.011
+Id credit,2223
+Valuta,RON
+Suma imprumutata,500
+Dobanda,2.0
+Durata luni,24
+In procedura citesteRataFis,2019-04-30 19:38:19.011
+Id rata,2224
+Luna,4
+Suma,40
+Status,platita
+In procedura detaliiPersoanaCSV, 2019-04-30 19:38:19.011
+In procedura detaliiAngajatCSV, 2019-04-30 19:38:19.011
+In procedura detaliiPersoanaCSV, 2019-04-30 19:38:19.011
+In procedura detaliiClientCSV, 2019-04-30 19:38:19.011
+In procedura detaliiPersoanaCSV, 2019-04-30 19:38:19.011
+In procedura detaliiContCSV, 2019-04-30 19:38:19.011
+In procedura detaliiCardCSV, 2019-04-30 19:38:19.011
+In procedura detaliiCreditCSV, 2019-04-30 19:38:19.011
+In procedura detaliiRataCSV, 2019-04-30 19:38:19.011
+S-a depus suma de 40.5 in contul cu iban-ul 2221
+In procedura detaliiContCSV, 2019-04-30 19:38:19.011
+In procedura detaliiCardCSV, 2019-04-30 19:38:19.011
+In procedura detaliiCreditCSV, 2019-04-30 19:38:19.011
+In procedura detaliiRataCSV, 2019-04-30 19:38:19.011
+In procedura citesteSucursalaFis,2019-04-30 19:41:03.084
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-30 19:41:03.116
+In procedura citestePersoanaFis,2019-04-30 19:41:03.116
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-30 19:41:03.131
+In procedura citestePersoanaFis,2019-04-30 19:41:03.131
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-30 19:41:03.131
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-30 19:41:03.147
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-30 19:41:03.147
+Id credit,2223
+Valuta,RON
+Suma imprumutata,500
+Dobanda,2.0
+Durata luni,24
+In procedura citesteRataFis,2019-04-30 19:41:03.147
+Id rata,2224
+Luna,4
+Suma,40
+Status,platita
+In procedura detaliiPersoanaCSV, 2019-04-30 19:41:03.147
+In procedura detaliiAngajatCSV, 2019-04-30 19:41:03.147
+In procedura detaliiPersoanaCSV, 2019-04-30 19:41:03.163
+In procedura detaliiClientCSV, 2019-04-30 19:41:03.163
+In procedura detaliiPersoanaCSV, 2019-04-30 19:41:03.163
+In procedura detaliiContCSV, 2019-04-30 19:41:03.163
+In procedura detaliiCardCSV, 2019-04-30 19:41:03.163
+In procedura detaliiCreditCSV, 2019-04-30 19:41:03.163
+In procedura detaliiRataCSV, 2019-04-30 19:41:03.163
+S-a depus suma de 40.5 in contul cu iban-ul 2221
+In procedura detaliiContCSV, 2019-04-30 19:41:03.163
+In procedura detaliiCardCSV, 2019-04-30 19:41:03.163
+In procedura detaliiCreditCSV, 2019-04-30 19:41:03.163
+In procedura detaliiRataCSV, 2019-04-30 19:41:03.163
